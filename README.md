@@ -59,4 +59,3 @@ In conclusion, genetic algorithms provide a flexible and powerful tool for portf
 -----------------------------------------------------------------------------------------------------------------------------------
 1. https://www.researchgate.net/publication/286952225_A_heuristic_crossover_for_portfolio_selection
 2. https://www.semanticscholar.org/paper/Genetic-Algorithm-Application-to-Portfolio-Stomeo-Caenazzo/9888061ea3326ff9b41c807ed21f0c10463b7879?p2df
-3. 
